@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin:0;
+
+}
+
+main{
+    background-color: lightsalmon;
+    height: 100%;
+    margin:0;
+}
+article{
+    background-color: lightblue;
+    height: 200px;
+    width: 40%;
+    position: absolute;
+    right: 100;
+}
+
+div{
+    background-color: lightgreen;
+    height: 30%;
+    width: 40%;
+    margin:20px;
+}
+
+footer{
+    background-color: lightcyan;
+    height: 10%;
+}
